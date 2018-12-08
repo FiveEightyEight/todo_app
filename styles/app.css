@@ -1,3 +1,12 @@
+body {
+    padding: 5% 20%;
+}
+
+.jumbotron {
+    background-image: url("../assets/images/NYC/rohit-tandon-411851-unsplash.jpg");
+    background-size: cover;
+  }
+
 .belowjumbo{
     background-color:#FF4136
 }
