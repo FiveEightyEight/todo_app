@@ -1,6 +1,7 @@
 # RTR ToDo List
 
 A simple web-based app that allows you to quickly make a list of tasks, sorted from most recent (top) to oldest (bottom).
+* **Deployment** - *ToDo* - [URL](https://fiveeightyeight.github.io/todo_app/)
 
 ## Getting Started
 
